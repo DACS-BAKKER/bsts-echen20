@@ -1,0 +1,20 @@
+8
+4
+produces milk?
+0,sit on it?
+1,climbs mountain?
+00,is it great at comp sci?
+01,do we sleep on it?
+10,plant?
+11,goat
+000,animal?
+001,bakker
+010,chair
+011,bed
+100,cow
+101,is it a nut?
+0000,guitar
+0001,pig
+1010,soy
+1011,almond
+
